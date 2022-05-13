@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey! I'm Luiz 👋
 
-<!--
-**Luizcarlosqueiroz/Luizcarlosqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  
+I'm a web development student, aspiring traveler, part-time [The Office](https://www.imdb.com/title/tt0386676/) fan and full-time QA engineer. I am current working at @Liferay from [Recife, BR](https://goo.gl/maps/tnrSLsMXLrigftFh8). Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/luiz-carlos-queiroz/)!
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+ ☕ Habilities: Poshi/Selenium, HTML, CSS, JavaScript e ReactJS.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Tools:VS Code, Trello, Jira, Git e GitHub.
+</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos-queiroz/)](https://www.linkedin.com/in/luiz-carlos-queiroz/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luizcarlos_q)](https://twitter.com/luizcarlos_q)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:luizcarlosqueirozf@gmail.com)](mailto:luizcarlosqueirozf@gmail.com)
